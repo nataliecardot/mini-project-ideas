@@ -24,3 +24,7 @@ Compilation of ideas for small practice front-end projects (mostly pulled from v
    - Generate number on clicked
 
 5. [Password generator](https://github.com/rfoel/dummy-password-generator)
+
+6. Standard-military time converter
+
+   - Use libary such as [Luxon](https://stackoverflow.com/a/68718100/8888320)
