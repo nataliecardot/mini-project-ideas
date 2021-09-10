@@ -4,9 +4,9 @@ Compilation of ideas for small practice front-end projects (mostly pulled from v
 
 1. Leap year calculator
 
-   - check if current year is leap year
-   - list upcoming leap years
-   - list leap years between two dates
+   - Check if current year is leap year
+   - List upcoming leap years
+   - List leap years between two dates
 
 2. [Birthday checker](https://github.com/rfoel/not-fancy-birthday-checker)
 
