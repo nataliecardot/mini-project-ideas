@@ -28,3 +28,5 @@ Compilation of ideas for small practice front-end projects (mostly pulled from v
 6. Standard-military time converter
 
    - Use libary such as [Luxon](https://stackoverflow.com/a/68718100/8888320)
+
+7. Tool for picking from a list of options randomly.
